@@ -8,24 +8,29 @@
  ### Beginner
 <details>
   <summary>Sanity Check</summary>
-  1. Description  
-  2. Flag  
-  3. Solution  
-  </details>
+  1. Description 
+  (TBD) 
+  3. Flag 
+  (TBD)   
+  5. Solution 
+  (TBD)   
+</details>
 
 <details>
   <summary>Stringy Things</summary>
-  1. Description  
-  2. Flag  
-  3. Solution  
+  1. Description 
+  (TBD) 
+  3. Flag 
+  (TBD)   
+  5. Solution 
+  (TBD)   
 </details>
 
 <details>
   <summary>Cipher Gauntlet</summary>
-  1. A numbered  
-  2. list  
-     * With some  
-     * Sub bullets
+  1. Description  
+  2. Flag  
+  3. Solution  
 </details>
 
 <details>
