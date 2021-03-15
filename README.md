@@ -63,6 +63,24 @@
  
 
 ### DvCTF 2021
-- Stega
-- Crypto
-- Web
+<details>
+  <summary>Stega</summary>
+  1. Description  
+  2. Flag  
+  3. Solution  
+</details>
+
+<details>
+  <summary>Crypto</summary>
+  1. Description  
+  2. Flag  
+  3. Solution  
+</details>
+
+<details>
+  <summary>Web</summary>
+  1. Description  
+  2. Flag  
+  3. Solution  
+</details>
+
