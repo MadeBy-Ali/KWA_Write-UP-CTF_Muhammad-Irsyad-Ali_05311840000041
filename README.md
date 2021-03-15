@@ -18,6 +18,3 @@
 - Stega
 - Crypto
 - Web
-
-
-
