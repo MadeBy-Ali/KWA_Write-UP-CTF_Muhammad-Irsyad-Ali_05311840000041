@@ -4,13 +4,17 @@
 
 ## Problem List
 ### UTCTF 2021
-- I. Beginner
+ * Beginner
+- Sanity Check
+- Stringy Things
+- Cipher Gauntlet
+- Magic Bytes
+- HTML
+
+ * Forensics
 
 
-- II. Forensics
-
-
-- III. Web
+ * Web
  
 
 ### DvCTF 2021
