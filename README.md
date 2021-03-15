@@ -10,11 +10,8 @@
 - Cipher Gauntlet
 - Magic Bytes
 - HTML
-
- * Forensics
-
-
- * Web
+- Forensics
+- Web
  
 
 ### DvCTF 2021
