@@ -15,13 +15,9 @@
  
 
 ### DvCTF 2021
-- I. Stega
-
-
-- II. Crypto
-
-
-- III. Web
+- Stega
+- Crypto
+- Web
 
 
 
