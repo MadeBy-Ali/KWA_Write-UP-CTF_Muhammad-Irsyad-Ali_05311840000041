@@ -5,7 +5,11 @@
 ## Problem List
 ### UTCTF 2021
  ### Beginner
-- Sanity Check
+#### Sanity Check
+* Description
+* Flag
+* Solution
+
 - Stringy Things
 - Cipher Gauntlet
 - Magic Bytes
