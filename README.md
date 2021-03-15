@@ -9,11 +9,11 @@
 <details>
   <summary>Sanity Check</summary>
   1. Description 
-  (TBD) 
+  (TBD)   
   3. Flag 
-  (TBD)   
+  (TBD)
   5. Solution 
-  (TBD)   
+  (TBD) 
 </details>
 
 <details>
