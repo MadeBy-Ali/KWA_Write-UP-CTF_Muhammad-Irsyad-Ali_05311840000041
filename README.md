@@ -4,11 +4,16 @@
 
 ## Problem List
 ### UTCTF 2021
+ 
  ### Beginner
-#### Sanity Check
-* Description
-* Flag
-* Solution
+<details>
+  <summary>Sanity Check</summary>
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 
 - Stringy Things
 - Cipher Gauntlet
