@@ -3,7 +3,7 @@
 # Dokumentasi CTF - Muhammad Irsyad Ali
 
 ## Problem List
-### UTCTF 2021
+## UTCTF 2021
  
  ### Beginner
 <details>
@@ -47,22 +47,14 @@
   3. Solution  
 </details>
 
-<details>
-  <summary>Forensics</summary>
-  1. Description  
-  2. Flag  
-  3. Solution  
-</details>
+### Forensics
 
-<details>
-  <summary>Web</summary>
-  1. Description  
-  2. Flag  
-  3. Solution  
-</details>
+
+### Web
+
  
 
-### DvCTF 2021
+## DvCTF 2021
 <details>
   <summary>Stega</summary>
   1. Description  
