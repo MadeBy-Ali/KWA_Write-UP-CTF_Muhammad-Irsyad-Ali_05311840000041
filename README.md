@@ -55,24 +55,37 @@
  
 
 ## DvCTF 2021
+### Stega
 <details>
-  <summary>Stega</summary>
-  1. Description  
-  2. Flag  
-  3. Solution  
+  <summary>Pidieff</summary>
+  1. Description 
+  (TBD)   
+  3. Flag 
+  (TBD)
+  5. Solution 
+  (TBD) 
 </details>
 
+### Crypto
 <details>
-  <summary>Crypto</summary>
-  1. Description  
-  2. Flag  
-  3. Solution  
+  <summary>Substitution</summary>
+  1. Description 
+  (TBD)   
+  3. Flag 
+  (TBD)
+  5. Solution 
+  (TBD) 
 </details>
 
+### Web
 <details>
-  <summary>Web</summary>
-  1. Description  
-  2. Flag  
-  3. Solution  
+  <summary>Obfuscation</summary>
+  1. Description 
+  (TBD)   
+  3. Flag 
+  (TBD)
+  5. Solution 
+  (TBD) 
 </details>
+
 
