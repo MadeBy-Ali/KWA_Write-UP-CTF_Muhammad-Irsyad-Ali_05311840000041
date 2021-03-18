@@ -7,11 +7,12 @@
  
  ### Beginner
 <details>
+ ![](https://github.com/irsyadali1/KWA_Write-UP-CTF_Muhammad-Irsyad-Ali_05311840000041/blob/main/UTCTF/UTCTF_HTML_solved.png)
   <summary>Sanity Check</summary>
-  1. Description 
-  (TBD)   
+  1. You'll find the flag in the description of the #announcements channel!
   3. Flag 
-  (TBD)
+  utflag{welcome_to_utctf}
+ ![alt text](http://url/to/img.png)
   5. Solution 
   (TBD) 
 </details>
