@@ -7,7 +7,8 @@
  
  ### Beginner
  ![image 1](https://github.com/irsyadali1/KWA_Write-UP-CTF_Muhammad-Irsyad-Ali_05311840000041/blob/main/UTCTF/UTCTF_Sanity%20check_solved.png)
-
+ 
+ <details>
   Sanity Check
   1. Description <br/>
   You'll find the flag in the description of the #announcements channel!<br/>
@@ -16,7 +17,7 @@
  ![alt text]()
   3. Solution<br/>
   Dengan bergabung discord UTCTF, accept terms and condition pada Text channel *welcome*, lalu melihat deskripsi pada text channel *announcements*
-
+</details>
 
 <details>
   <summary>Stringy Things</summary>
