@@ -15,9 +15,9 @@
  <summary>Sanity Check</summary>
  <p>
   1. Description <br/>
-  You'll find the flag in the description of the #announcements channel!<br/>
+  You'll find the flag in the description of the #announcements channel!<br/><br/>
   2. Flag<br/>  
-  utflag{welcome_to_utctf}
+  utflag{welcome_to_utctf}<br/><br/>
  ![alt text]()
   3. Solution<br/>
   Dengan bergabung discord UTCTF, accept terms and condition pada Text channel *welcome*, lalu melihat deskripsi pada text channel *announcements*
