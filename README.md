@@ -6,9 +6,8 @@
 ## UTCTF 2021
  
  ### Beginner
+ ![image 1](https://github.com/irsyadali1/KWA_Write-UP-CTF_Muhammad-Irsyad-Ali_05311840000041/blob/main/UTCTF/UTCTF_Sanity%20check_solved.png)
 <details>
- ![image 1](https://github.com/irsyadali1/KWA_Write-UP-CTF_Muhammad-Irsyad-Ali_05311840000041/blob/main/UTCTF/UTCTF_HTML_solved.png)
- 
   <summary>Sanity Check</summary>
   1. You'll find the flag in the description of the #announcements channel!  
   2. Flag  
@@ -17,15 +16,6 @@
   3. Solution 
   (TBD) 
 </details>
-
- ![image 1](https://github.com/irsyadali1/KWA_Write-UP-CTF_Muhammad-Irsyad-Ali_05311840000041/blob/main/UTCTF/UTCTF_HTML_solved.png)
- 
-  <summary>Sanity Check</summary>
-  1. You'll find the flag in the description of the #announcements channel!  
-  2. Flag  
-  utflag{welcome_to_utctf}  
- ![alt text]()  
-  3. Solution  
 
 <details>
   <summary>Stringy Things</summary>
