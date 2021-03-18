@@ -14,7 +14,7 @@
  
  <summary>Sanity Check</summary>
  <p>
-  1. Description <br/>
+  1. Description<br/>
   You'll find the flag in the description of the #announcements channel!<br/><br/>
  
   2. Flag<br/>
