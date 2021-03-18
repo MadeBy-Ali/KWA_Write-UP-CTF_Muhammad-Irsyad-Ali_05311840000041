@@ -9,7 +9,9 @@
 
  
  <details>
+ 
  ![image 1](https://github.com/irsyadali1/KWA_Write-UP-CTF_Muhammad-Irsyad-Ali_05311840000041/blob/main/UTCTF/UTCTF_Sanity%20check_solved.png)
+ 
  <summary>Sanity Check</summary>
  <p>
   1. Description <br/>
